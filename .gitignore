@@ -57,5 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
-# PHPStorm
+#PHPstorm
 .idea
+
+#prod build
+dist
+
+#mock db
+db.json
